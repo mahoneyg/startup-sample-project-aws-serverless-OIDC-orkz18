@@ -5,7 +5,7 @@ on:
   pull_request:
     branches: [main]
 env:
-  environment: dev  # first attempt
+  environment: dev  # run 2
 
 permissions:
   id-token: write # This is required for requesting the JWT
